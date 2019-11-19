@@ -1,0 +1,11 @@
+D:\C#\MoshPrep\MoshPrep\bin\Debug\netcoreapp2.1\MoshPrep.deps.json
+D:\C#\MoshPrep\MoshPrep\bin\Debug\netcoreapp2.1\MoshPrep.runtimeconfig.json
+D:\C#\MoshPrep\MoshPrep\bin\Debug\netcoreapp2.1\MoshPrep.runtimeconfig.dev.json
+D:\C#\MoshPrep\MoshPrep\bin\Debug\netcoreapp2.1\MoshPrep.dll
+D:\C#\MoshPrep\MoshPrep\bin\Debug\netcoreapp2.1\MoshPrep.pdb
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.csprojAssemblyReference.cache
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.csproj.CoreCompileInputs.cache
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.AssemblyInfoInputs.cache
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.AssemblyInfo.cs
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.dll
+D:\C#\MoshPrep\MoshPrep\obj\Debug\netcoreapp2.1\MoshPrep.pdb
